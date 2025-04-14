@@ -1,2 +1,0 @@
-# Ejercicio
-Trabajo en clase
